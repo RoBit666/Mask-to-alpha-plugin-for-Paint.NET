@@ -1,3 +1,12 @@
+// Name: Mask to alpha
+// Submenu:
+// Author: Robit
+// Title: Mask to alpha
+// Version: 1.0
+// Desc: Converts color brightness to alpha channel
+// Keywords: Mask|Alpha
+// URL: https://github.com/RoBit666
+
 #region UICode
 CheckboxControl _subtractWhite = false; // Subtract White
 #endregion
